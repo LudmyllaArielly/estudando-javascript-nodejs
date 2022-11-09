@@ -1,4 +1,4 @@
-## Estudando nodeJS
+## Estudando Javascript com a biblioteca Node.js
 
 ## Tecnologias usadas
 
